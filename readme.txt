@@ -1,3 +1,7 @@
 Git is a version control system.
 Git is free software. 
-creating a new branch is quik $ simple.
+<<<<<<< HEAD
+creating a new branch is quik AND simple.
+=======
+creating a new branch is quik AND simple.
+>>>>>>> feature1
